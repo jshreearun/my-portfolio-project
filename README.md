@@ -4,5 +4,5 @@ This is my professional portfolio project created on Feb 23 to showcase my skill
 
 ## Technologies Used
 
-Git and github
-SSH
+1.Git and github
+2. SSH
