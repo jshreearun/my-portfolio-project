@@ -5,9 +5,9 @@ phases:
     commands:
       - echo Nothing to do yet
   artifacts:
-  files:
-    - index.html
-    - favicon.ico
-    - styles/*
-    - images/*
-    - Jay-AWS-Engineer.pdf
+    files:
+      - index.html
+      - favicon.ico
+      - styles/*
+      - images/*
+      - Jay-AWS-Engineer.pdf
