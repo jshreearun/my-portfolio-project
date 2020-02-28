@@ -1,13 +1,13 @@
-Version: 0.2
+version: 0.2
 
 phases:
   build:
     commands:
       - echo Nothing to do yet
-  artifacts:
-    files:
-      - index.html
-      - favicon.ico
-      - styles/*
-      - images/*
-      - Jay-AWS-Engineer.pdf
+artifacts:
+  files:
+    - index.html
+    - favicon.ico
+    - styles/*
+    - images/*
+    - Jay-AWS-Engineer.pdf
